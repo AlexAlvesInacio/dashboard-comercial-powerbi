@@ -60,4 +60,4 @@ O arquivo `.pbix` está disponível neste repositório para exploração.
 
 ## 👨‍💻 Autor
 
-Alex — Analista de Dados em formação com foco em Machine Learning e Automação
+Alex — Analista de Dados em formação com foco em Machine Learning
