@@ -8,11 +8,10 @@ Este projeto apresenta um dashboard comercial completo desenvolvido no Power BI,
 ## 📸 Preview do Projeto
 
 ### 📌 Capa
-![Capa](assets/capa.png)
+[Capa](assets/Capa.png)
 
 ### 📊 Painel Geral
 ![Painel Geral](assets/painel-geral.png)
-
 ### 👥 Painel de Clientes
 ![Painel Clientes](assets/painel-clientes.png)
 
